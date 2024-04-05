@@ -1,5 +1,8 @@
 KuyMojok ialah repository project bahasa pemrograman Mojo terdiri project hello world,kondisi percabangan,class dan function
 
+![Logo Mojo](https://raw.githubusercontent.com/tmdgroupid/KuyMojok/main/Mojo_lang.png)
+![Mojo Speed](https://raw.githubusercontent.com/tmdgroupid/KuyMojok/main/mojo.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bahasa pemrograman Mojo ialah bahasa pemrograman terbaru yang dimana dibuat dengan bahasa pemrograman Python dan C, bahasa pemrograman Mojo dibuat khusus AI,Machine Learning,Data Analyst dan Virtual Assistant 
